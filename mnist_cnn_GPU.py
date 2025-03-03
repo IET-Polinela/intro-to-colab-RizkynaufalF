@@ -59,7 +59,7 @@ ax[1].set_ylabel("Accuracy")
 ax[1].legend()
 
 # Simpan grafik ke dalam file
-plt.savefig("training_performance_GPU.png")
+plt.savefig("training_performance(GPU).png")
 plt.show()
 
-print("Training performance plot saved to training_performance_GPU.png.")
+print("Training performance plot saved to training_performance(GPU).png.")
